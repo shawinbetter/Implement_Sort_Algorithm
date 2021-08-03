@@ -84,4 +84,4 @@ This project contains 11 different sorting algorithms implemented by Python
 
   Space Complexity：O(N)
 
-![](comparison.png)
+![](comparison.jpg)
